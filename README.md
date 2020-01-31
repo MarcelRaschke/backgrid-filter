@@ -1,6 +1,6 @@
 backgrid-filter
 ===============
-[![Build Status](https://travis-ci.org/wyuenho/backgrid-filter.png?branch=master)](https://travis-ci.org/wyuenho/backgrid-filter)
+[![Build Status](https://travis-ci.org/wyuenho/backgrid-filter.png?branch=master)](https://travis-ci.org/wyuenho/backgrid-filter) [![Greenkeeper badge](https://badges.greenkeeper.io/MarcelRaschke/backgrid-filter.svg)](https://greenkeeper.io/)
 
 Dependencies
 ============
