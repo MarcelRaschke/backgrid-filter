@@ -25,18 +25,18 @@
     "backbone.paginator": "^2.0.0",
     "grunt": "^1.0.0",
     "grunt-cli": "^1.2.0",
-    "grunt-contrib-clean": "^1.0.0",
-    "grunt-contrib-uglify": "^1.0.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
     "grunt-jsduck": "^1.0.0",
-    "grunt-karma": "^1.0.0",
+    "grunt-karma": "^3.0.2",
     "grunt-recess": "^1.0.0",
-    "jasmine-core": "^2.4.0",
-    "jquery": "^2.0.0",
-    "karma": "^1.0.0",
-    "karma-chrome-launcher": "^1.0.0",
-    "karma-coverage": "^1.0.0",
+    "jasmine-core": "^3.5.0",
+    "jquery": "^3.4.1",
+    "karma": "^4.4.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-coverage": "^2.0.1",
     "karma-firefox-launcher": "^1.0.0",
-    "karma-jasmine": "^1.0.0",
+    "karma-jasmine": "^3.1.0",
     "karma-jasmine-textio-html-reporter": "^1.0.0",
     "karma-safari-launcher": "^1.0.0"
   },
@@ -46,6 +46,6 @@
     "underscore": "^1.8.0"
   },
   "optionalDependencies": {
-    "lunr": "^0.7.0"
+    "lunr": "^2.3.8"
   }
 }
